@@ -7,7 +7,7 @@ This is a project that shows my ability to:
 - Use Microsoft SQL Server to conduct data exploration to analyze metrics: Promotion Effectiveness; Sales Performance, MoM Revenue Growth, Rolling Total Sales & 3-Month
 Moving Average Sales by Segment.
 
-## **Business Request*
+## *Business Request*
 The business request for this data analyst project was to analyze key metrics on sales for sales managers. 
 
 ## **Skills and Concepts demonstrated**

@@ -55,7 +55,5 @@ Below are the SQL statements for cleansing and transforming necessary data.
 
 <img width="598" alt="image" src="https://github.com/YenDo123123/Time-Series-Analysis-Project/assets/140786495/1473cec9-a9bc-409a-a0f7-3fdb29955645">
 
-## **Analysis**
-
 
 

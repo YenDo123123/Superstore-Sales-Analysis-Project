@@ -7,7 +7,7 @@ This is a project that shows my ability to:
 - Use Microsoft SQL Server to conduct data exploration to analyze metrics: Promotion Effectiveness; Sales Performance, MoM Revenue Growth, Rolling Total Sales & 3-Month
 Moving Average Sales by Segment.
 
-## *Business Request*
+## **Business Request**
 The business request for this data analyst project was to analyze key metrics on sales for sales managers. 
 
 ## **Skills and Concepts demonstrated**
@@ -25,7 +25,7 @@ To create the necessary data model for doing analysis, the following tables were
 
 Below are the SQL statements for cleansing and transforming necessary data.
 
-###**Create Calendar table**
+### **Create Calendar table**
 
 <img width="598" alt="image" src="https://github.com/YenDo123123/Time-Series-Analysis-Project/assets/140786495/f72a2368-4593-4789-816b-aa636052b1fb">
 
@@ -55,6 +55,7 @@ Below are the SQL statements for cleansing and transforming necessary data.
 
 <img width="598" alt="image" src="https://github.com/YenDo123123/Time-Series-Analysis-Project/assets/140786495/1473cec9-a9bc-409a-a0f7-3fdb29955645">
 
+## **Analysis**
 
 
 

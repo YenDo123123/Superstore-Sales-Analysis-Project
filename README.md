@@ -1,4 +1,4 @@
-# **[Time-Series-Analysis-Project](url)**
+# **[Superstore-Sales-Analysis-Project](url)**
 ## **Introduction**
 This is an analysis of Superstoredata for Point of Sale (PoS) from Jan 1st, 2017 to Dec 30th, 2020 on sales, customer & product aspects
 
